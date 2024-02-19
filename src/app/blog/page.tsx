@@ -6,9 +6,9 @@ export const metadata:Metadata={
 
 const Blog = () => {
   return (
-    <div>
+    <h1>
       Blog Page
-    </div>
+    </h1>
   )
 }
 
